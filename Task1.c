@@ -28,7 +28,7 @@ int main(){
 
 	age_days=count_leap_years * 366 + (age-count_leap_years)*365;
 
-	printf("Your age (days): %d\n", age_days);
+	printf("Your age in days: %d\n", age_days);
 
 	return 0;
 }
