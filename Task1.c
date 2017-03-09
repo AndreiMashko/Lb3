@@ -4,7 +4,7 @@
 int main(){
 
 	int age;
-	int age_days;
+	int age_days;//count days in life
 
 	int count_leap_years;
 
